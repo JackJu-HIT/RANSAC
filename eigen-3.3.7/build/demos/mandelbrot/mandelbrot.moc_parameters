@@ -1,0 +1,7 @@
+-I/home/juchunyu/tools/eigen-3.3.7
+-I/home/juchunyu/tools/eigen-3.3.7/build
+-I/usr/include/qt4
+-DNDEBUG
+-o
+/home/juchunyu/tools/eigen-3.3.7/build/demos/mandelbrot/mandelbrot.moc
+/home/juchunyu/tools/eigen-3.3.7/demos/mandelbrot/mandelbrot.h
